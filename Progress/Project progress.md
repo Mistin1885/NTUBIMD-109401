@@ -14,3 +14,5 @@
 ![](https://i.imgur.com/vIeBo6v.jpg)
 ![](https://i.imgur.com/sVsGOgQ.jpg)
 
+## **2020.4.14**
+#### 線上初步討論系統手冊第1、2章內容與詳細分工
