@@ -63,6 +63,12 @@ public class ZenboDialogSample extends RobotActivity {
         startActivity(it);
     }
 
+    public void gotoNote(View v){
+        Intent it = new Intent();
+        it.setClass(ZenboDialogSample.this, Note.class);
+        startActivity(it);
+    }
+
     @Override
     protected void onDestroy() {
         super.onDestroy();

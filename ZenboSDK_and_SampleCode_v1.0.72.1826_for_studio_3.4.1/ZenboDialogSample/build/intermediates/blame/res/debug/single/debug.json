@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -138,10 +138,6 @@
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_test.png.flat",
-        "source": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\src\\main\\res\\drawable\\test.png"
     },
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
@@ -548,6 +544,10 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_note.xml.flat",
+        "source": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -928,6 +928,10 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_mon.png.flat",
+        "source": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\src\\main\\res\\drawable\\mon.png"
+    },
+    {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -1154,6 +1158,10 @@
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\f9b7fe4f360b59141a1b6fa098e9c767\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_fri.png.flat",
+        "source": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\src\\main\\res\\drawable\\fri.png"
     },
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",

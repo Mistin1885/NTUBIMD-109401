@@ -759,6 +759,8 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable bg
+drawable fri
+drawable mon
 drawable note
 drawable notification_action_background
 drawable notification_bg
@@ -773,7 +775,6 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable scheduel
-drawable test
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -907,6 +908,7 @@ id multiply
 id never
 id none
 id normal
+id note_back
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -930,6 +932,8 @@ id right_icon
 id right_side
 id sawtooth
 id schedule_back
+id schedule_fri
+id schedule_mon
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
@@ -1026,6 +1030,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_note
 layout activity_schedule
 layout activity_zenbo_dialog_sample
 layout notification_action

@@ -17,6 +17,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/RobotDevTheme" >
+        <activity android:name="com.asus.zenbodialogsample.Note" />
         <activity android:name="com.asus.zenbodialogsample.Schedule" />
 
         <meta-data
