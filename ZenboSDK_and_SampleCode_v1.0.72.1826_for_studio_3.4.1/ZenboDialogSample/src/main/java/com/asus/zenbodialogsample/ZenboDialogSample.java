@@ -1,10 +1,16 @@
 package com.asus.zenbodialogsample;
 
+import android.app.AlarmManager;
+import android.app.TimePickerDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
+
+
 
 import com.asus.robotframework.API.RobotCallback;
 import com.asus.robotframework.API.RobotCmdState;
@@ -30,6 +36,7 @@ public class ZenboDialogSample extends RobotActivity {
         //mTextView = (TextView) findViewById(R.id.textview_info);
     }
 
+
     @Override
     protected void onResume() {
         super.onResume();
@@ -41,7 +48,10 @@ public class ZenboDialogSample extends RobotActivity {
         robotAPI.robot.jumpToPlan(DOMAIN, "lanuchHelloWolrd_Plan");
 
         // listen user utterance
-        robotAPI.robot.speakAndListen("Which city do you like?", new SpeakConfig().timeout(20));
+        //robotAPI.robot.speakAndListen("\"Which city do you like?", new SpeakConfig().timeout(20));
+        robotAPI.robot.speak("Nice to meet you");
+
+        robotAPI.robot.setExpression(RobotFace.HAPPY);
 
         // show hint
         //mTextView.setText(getResources().getString(R.string.dialog_example));
@@ -57,6 +67,7 @@ public class ZenboDialogSample extends RobotActivity {
         robotAPI.robot.stopSpeakAndListen();
     }
 
+
     public void gotoSchedule(View v){
         Intent it = new Intent();
         it.setClass(ZenboDialogSample.this, Schedule.class);
@@ -66,6 +77,12 @@ public class ZenboDialogSample extends RobotActivity {
     public void gotoNote(View v){
         Intent it = new Intent();
         it.setClass(ZenboDialogSample.this, Note.class);
+        startActivity(it);
+    }
+
+    public void gotoAlarm(View v){
+        Intent it = new Intent();
+        it.setClass(ZenboDialogSample.this, AlarmActivity.class);
         startActivity(it);
     }
 

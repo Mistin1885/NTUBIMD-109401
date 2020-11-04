@@ -32,4 +32,19 @@
         android:layout_marginTop="-6dp"
         android:background="@drawable/scheduel"
         android:onClick="gotoSchedule" />
+
+    <Button
+        android:id="@+id/btn_Alarm"
+        android:layout_width="89dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="418dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="208dp"
+        android:layout_marginBottom="320dp"
+        android:onClick="gotoAlarm"
+        android:text="鬧鐘" />
 </RelativeLayout>

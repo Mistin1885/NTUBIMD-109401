@@ -5,9 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
-import java.sql.Time;
+
 import java.util.Calendar;
-import java.util.Date;
 import java.util.TimeZone;
 
 public class Schedule extends AppCompatActivity {

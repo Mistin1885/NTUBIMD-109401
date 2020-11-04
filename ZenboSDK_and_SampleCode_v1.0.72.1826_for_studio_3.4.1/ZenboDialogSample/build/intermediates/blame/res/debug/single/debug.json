@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
-        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -248,6 +248,10 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\f9b7fe4f360b59141a1b6fa098e9c767\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_zenbo_operating.xml.flat",
+        "source": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\src\\main\\res\\layout\\activity_zenbo_operating.xml"
+    },
+    {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -378,6 +382,10 @@
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_alarm.png.flat",
+        "source": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\src\\main\\res\\drawable\\alarm.png"
     },
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -790,6 +798,10 @@
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_alarm.xml.flat",
+        "source": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\src\\main\\res\\layout\\activity_alarm.xml"
     },
     {
         "merged": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",

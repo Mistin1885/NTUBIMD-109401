@@ -758,6 +758,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable alarm
 drawable bg
 drawable fri
 drawable mon
@@ -826,8 +827,12 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btn_Alarm
+id btn_cancel
 id btn_note
+id btn_rest
 id btn_scheduel
+id btn_work
 id buttonPanel
 id cache_measures
 id center
@@ -952,6 +957,7 @@ id select_dialog_listview
 id shortcut
 id showCustom
 id showHome
+id showTime
 id showTitle
 id sin
 id spacer
@@ -1030,9 +1036,11 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_alarm
 layout activity_note
 layout activity_schedule
 layout activity_zenbo_dialog_sample
+layout activity_zenbo_operating
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

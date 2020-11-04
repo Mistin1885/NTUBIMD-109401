@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [com.android.support.constraint:constraint-layout:2.0.2] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\ec0bdff75a6bd74f247b989fa491397f\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\7fc6f38e72c1ebd268d0841ef7698be8\AndroidManifest.xml:17:1-22:12
 MERGED from [:RobotActivityLibrary] D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
@@ -32,25 +32,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mistin\.gradle\cach
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\01c6fb0259d3e17c53d47805e8c4c220\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\1f1c5b71454e6ca3708ac1054c6c5daa\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\123d6ad4f0d26021aa6970cb830680e1\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml
 		INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:5:5-33:19
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:5:5-37:19
 MERGED from [com.android.support.constraint:constraint-layout:2.0.2] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\ec0bdff75a6bd74f247b989fa491397f\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:2.0.2] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\ec0bdff75a6bd74f247b989fa491397f\AndroidManifest.xml:9:5-20
 MERGED from [:RobotActivityLibrary] D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
@@ -71,48 +71,56 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mistin\.gr
 		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:10:9-45
-activity#com.asus.zenbodialogsample.Note
+activity#com.asus.zenbodialogsample.AlarmActivity
 ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:11:9-51
 	android:name
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:11:19-39
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:11:19-48
+activity#com.asus.zenbodialogsample.Note
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:12:9-42
+	android:name
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:12:19-39
 activity#com.asus.zenbodialogsample.Schedule
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:12:9-46
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:13:9-46
 	android:name
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:12:19-43
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:13:19-43
 meta-data#zenbo_ds_domainuuid
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:14:9-16:64
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:15:9-17:64
 	android:value
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:16:13-61
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:17:13-61
 	android:name
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:15:13-47
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:16:13-47
 meta-data#zenbo_ds_version_9EF85697FF064D54B32FF06D21222BA2
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:17:9-19:37
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:18:9-20:37
 	android:value
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:19:13-34
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:20:13-34
 	android:name
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:18:13-77
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:19:13-77
 activity#com.asus.zenbodialogsample.ZenboDialogSample
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:21:9-32:20
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:22:9-33:20
 	android:name
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:21:19-52
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:22:19-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.asus.intent.category.ZENBO+category:name:com.asus.intent.category.ZENBO_LAUNCHER
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:22:13-31:29
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:23:13-32:29
 action#android.intent.action.MAIN
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:23:17-69
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:23:25-66
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:24:25-66
 category#com.asus.intent.category.ZENBO
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:25:17-75
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:26:17-75
 	android:name
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:25:27-72
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:26:27-72
 category#com.asus.intent.category.ZENBO_LAUNCHER
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:26:17-84
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:27:17-84
 	android:name
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:26:27-81
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:27:27-81
 category#android.intent.category.LAUNCHER
-ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:30:17-77
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:30:27-74
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:31:27-74
+receiver#com.asus.zenbodialogsample.AlarmReceiver
+ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:36:9-51
+	android:name
+		ADDED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml:36:19-48
 uses-sdk
 INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\ZenboDialogSample\src\main\AndroidManifest.xml
