@@ -760,6 +760,8 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable alarm
 drawable bg
+drawable bg2
+drawable c
 drawable fri
 drawable mon
 drawable note
@@ -778,6 +780,10 @@ drawable notify_panel_notification_icon_bg
 drawable scheduel
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable v1
+drawable v2
+drawable v3
+drawable v4
 id ALT
 id CTRL
 id FUNCTION
@@ -788,6 +794,7 @@ id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
+id TextView_cnt_reward
 id accelerate
 id action_bar
 id action_bar_activity_content
@@ -829,10 +836,13 @@ id bottom
 id bounce
 id btn_Alarm
 id btn_cancel
+id btn_check_reward
 id btn_note
+id btn_refresh
 id btn_rest
 id btn_scheduel
 id btn_work
+id button
 id buttonPanel
 id cache_measures
 id center
@@ -840,6 +850,7 @@ id center_horizontal
 id center_vertical
 id chain
 id chains
+id check_reward_back
 id checkbox
 id chronometer
 id clip_horizontal
@@ -1037,6 +1048,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_alarm
+layout activity_check_reward
 layout activity_note
 layout activity_schedule
 layout activity_zenbo_dialog_sample

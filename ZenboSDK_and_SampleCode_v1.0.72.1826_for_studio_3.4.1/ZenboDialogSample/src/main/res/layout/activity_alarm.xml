@@ -70,4 +70,5 @@
         android:text="取消"
         android:visibility="gone"/>
 
+
 </RelativeLayout>

@@ -41,9 +41,6 @@ public class ZenboDialogSample extends RobotActivity {
     protected void onResume() {
         super.onResume();
 
-        // close faical
-        robotAPI.robot.setExpression(RobotFace.HIDEFACE);
-
         // jump dialog domain
         robotAPI.robot.jumpToPlan(DOMAIN, "lanuchHelloWolrd_Plan");
 
@@ -52,6 +49,9 @@ public class ZenboDialogSample extends RobotActivity {
         robotAPI.robot.speak("Nice to meet you");
 
         robotAPI.robot.setExpression(RobotFace.HAPPY);
+
+        // close faical
+        robotAPI.robot.setExpression(RobotFace.HIDEFACE);
 
         // show hint
         //mTextView.setText(getResources().getString(R.string.dialog_example));
@@ -83,6 +83,12 @@ public class ZenboDialogSample extends RobotActivity {
     public void gotoAlarm(View v){
         Intent it = new Intent();
         it.setClass(ZenboDialogSample.this, AlarmActivity.class);
+        startActivity(it);
+    }
+
+    public void gotoCheck_reward(View v){
+        Intent it = new Intent();
+        it.setClass(ZenboDialogSample.this, CheckReward.class);
         startActivity(it);
     }
 

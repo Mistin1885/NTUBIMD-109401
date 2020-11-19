@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:background="@drawable/bg"
+    android:background="@drawable/bg2"
     tools:context="com.asus.zenbodialogsample.ZenboDialogSample">
 
 
@@ -17,9 +17,9 @@
         android:layout_height="51dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="80dp"
-        android:layout_marginTop="3dp"
-        android:background="@drawable/note"
+        android:layout_marginStart="187dp"
+        android:layout_marginTop="155dp"
+        android:background="@drawable/v1"
         android:onClick="gotoNote" />
 
     <Button
@@ -28,23 +28,45 @@
         android:layout_height="81dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="237dp"
-        android:layout_marginTop="-6dp"
-        android:background="@drawable/scheduel"
+        android:layout_marginStart="383dp"
+        android:layout_marginTop="132dp"
+        android:background="@drawable/v2"
         android:onClick="gotoSchedule" />
 
     <Button
         android:id="@+id/btn_Alarm"
-        android:layout_width="89dp"
-        android:layout_height="60dp"
+        android:layout_width="93dp"
+        android:layout_height="65dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="418dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginEnd="208dp"
-        android:layout_marginBottom="320dp"
+        android:layout_marginStart="416dp"
+        android:layout_marginTop="288dp"
+        android:layout_marginEnd="206dp"
+        android:layout_marginBottom="42dp"
         android:onClick="gotoAlarm"
         android:text="鬧鐘" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="124dp"
+        android:layout_height="71dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="214dp"
+        android:layout_marginTop="270dp"
+        android:background="@drawable/v3"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/btn_check_reward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="86dp"
+        android:layout_marginEnd="67dp"
+        android:onClick="gotoCheck_reward"
+        android:text="獎勵" />
 </RelativeLayout>
