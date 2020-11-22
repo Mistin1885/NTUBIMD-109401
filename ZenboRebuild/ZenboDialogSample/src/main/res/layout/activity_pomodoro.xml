@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AlarmActivity">
+
+    <Button
+        android:id="@+id/note_back"
+        android:layout_width="94dp"
+        android:layout_height="44dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="615dp"
+        android:layout_marginBottom="331dp"
+        android:onClick="goBack"
+        android:text="Back" />
+
+    <TextView
+        android:id="@+id/showTime"
+        android:layout_width="217dp"
+        android:layout_height="175dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="278dp"
+        android:layout_marginTop="67dp"
+        android:digits="1234567890"
+        android:text="20"
+        android:textSize="160sp" />
+
+    <Button
+        android:id="@+id/btn_work"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="291dp"
+        android:layout_marginEnd="266dp"
+        android:layout_marginBottom="231dp"
+        android:text="工作" />
+
+    <Button
+        android:id="@+id/btn_rest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="469dp"
+        android:layout_marginTop="291dp"
+        android:layout_marginEnd="266dp"
+        android:layout_marginBottom="162dp"
+        android:text="休息" />
+
+
+</RelativeLayout>

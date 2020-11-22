@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\62e702401ef9317a7782272dad16e20a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5ea87295441860e095b090589c657ef4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\bde514e11920ea1edb02dde98c9d5f05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\22e22c75703641f83b21b4e1ee94f3ff\AndroidManifest.xml:17:1-24:12
+MERGED from [:RobotActivityLibrary] D:\ZenboRebuild\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\55b2d707db1f0353e72a9813d4016448\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5e890ac4f2b859a40bb5e2ea9a57ca6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\c93a491f39775be5187a1fb151c5a00d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\157f4c9ccb6051808b0504e532dd83b0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\42295ab9d5cdd95a1456fe3afdffa841\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\d701246b9202a1080b02c663de7affb9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\e69cda8ed44f891a347ace526b6b6706\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\4bfc8239e356379431d66dc503df1794\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\efa1eca1828ec34886c3bb9c0ac4e6d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\abab4226df6aa3392b0b5566d9a9909c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\7320985d79a471fcc0f748f67d67d5b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\b6078445eb633db55d2aafc28b62378e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\a67cf8c23247802830725a73d8774974\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\e9872ed948050cc6bd0f11adf493125e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f1191727c49e62de70e9aa2f0a40f73f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\e995acd69e1d73e5ea75437de1223577\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\65cc8dcc101eecde29011080bc8909b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\08f1e0c857752ae259ad8f838e85c11e\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\ecf9f72a52d1fdcbdea77a11938cdf0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f65f620df0788df61b41a614dd200c18\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\ee10769ff1cea536fc8422acb376428e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\d0671c7fa82cc6ac8c57697403d8f9d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\555e502785f5ef3a305188f16c61421b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\249e4dafe1403146100196e2d136ab97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\2dd037a41feb6467da8f82a14cee55e6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\b2cfd8669c57f95b20775d2b579e0a96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f42afdabee58a313d40881b7fede5b1e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5b1f00046c96ed2ca57b873bb48990a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5827c43b53908fbb3ca0846e20acc9fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\d4e608a58e7ec28dfa6aa9747f041a20\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:6:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\62e702401ef9317a7782272dad16e20a\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\62e702401ef9317a7782272dad16e20a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5ea87295441860e095b090589c657ef4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5ea87295441860e095b090589c657ef4\AndroidManifest.xml:22:5-20
+MERGED from [:RobotActivityLibrary] D:\ZenboRebuild\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:RobotActivityLibrary] D:\ZenboRebuild\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\08f1e0c857752ae259ad8f838e85c11e\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\08f1e0c857752ae259ad8f838e85c11e\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f65f620df0788df61b41a614dd200c18\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f65f620df0788df61b41a614dd200c18\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\08f1e0c857752ae259ad8f838e85c11e\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:11:9-45
+activity#com.asus.zenbodialogsample.CheckReward
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:13:9-58
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:13:19-46
+activity#com.asus.zenbodialogsample.Pomodoro
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:14:9-46
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:14:19-43
+activity#com.asus.zenbodialogsample.Schedule
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:15:9-46
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:15:19-43
+meta-data#zenbo_ds_domainuuid
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:17:9-19:64
+	android:value
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:19:13-61
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:18:13-47
+meta-data#zenbo_ds_version_9EF85697FF064D54B32FF06D21222BA2
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:20:9-22:37
+	android:value
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:22:13-34
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:21:13-77
+activity#com.asus.zenbodialogsample.ZenboDialogSample
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:24:9-35:20
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:24:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.asus.intent.category.ZENBO+category:name:com.asus.intent.category.ZENBO_LAUNCHER
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:25:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:26:25-66
+category#com.asus.intent.category.ZENBO
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:28:17-75
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:28:27-72
+category#com.asus.intent.category.ZENBO_LAUNCHER
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:29:17-84
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:29:27-81
+category#android.intent.category.LAUNCHER
+ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\62e702401ef9317a7782272dad16e20a\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\62e702401ef9317a7782272dad16e20a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5ea87295441860e095b090589c657ef4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5ea87295441860e095b090589c657ef4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\bde514e11920ea1edb02dde98c9d5f05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\bde514e11920ea1edb02dde98c9d5f05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\22e22c75703641f83b21b4e1ee94f3ff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\22e22c75703641f83b21b4e1ee94f3ff\AndroidManifest.xml:20:5-22:41
+MERGED from [:RobotActivityLibrary] D:\ZenboRebuild\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:RobotActivityLibrary] D:\ZenboRebuild\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\55b2d707db1f0353e72a9813d4016448\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\55b2d707db1f0353e72a9813d4016448\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5e890ac4f2b859a40bb5e2ea9a57ca6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5e890ac4f2b859a40bb5e2ea9a57ca6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\c93a491f39775be5187a1fb151c5a00d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\c93a491f39775be5187a1fb151c5a00d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\157f4c9ccb6051808b0504e532dd83b0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\157f4c9ccb6051808b0504e532dd83b0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\42295ab9d5cdd95a1456fe3afdffa841\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\42295ab9d5cdd95a1456fe3afdffa841\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\d701246b9202a1080b02c663de7affb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\d701246b9202a1080b02c663de7affb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\e69cda8ed44f891a347ace526b6b6706\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\e69cda8ed44f891a347ace526b6b6706\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\4bfc8239e356379431d66dc503df1794\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\4bfc8239e356379431d66dc503df1794\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\efa1eca1828ec34886c3bb9c0ac4e6d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\efa1eca1828ec34886c3bb9c0ac4e6d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\abab4226df6aa3392b0b5566d9a9909c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\abab4226df6aa3392b0b5566d9a9909c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\7320985d79a471fcc0f748f67d67d5b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\7320985d79a471fcc0f748f67d67d5b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\b6078445eb633db55d2aafc28b62378e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\b6078445eb633db55d2aafc28b62378e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\a67cf8c23247802830725a73d8774974\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\a67cf8c23247802830725a73d8774974\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\e9872ed948050cc6bd0f11adf493125e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\e9872ed948050cc6bd0f11adf493125e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f1191727c49e62de70e9aa2f0a40f73f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f1191727c49e62de70e9aa2f0a40f73f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\e995acd69e1d73e5ea75437de1223577\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\e995acd69e1d73e5ea75437de1223577\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\65cc8dcc101eecde29011080bc8909b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\65cc8dcc101eecde29011080bc8909b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\08f1e0c857752ae259ad8f838e85c11e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\08f1e0c857752ae259ad8f838e85c11e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\ecf9f72a52d1fdcbdea77a11938cdf0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\ecf9f72a52d1fdcbdea77a11938cdf0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f65f620df0788df61b41a614dd200c18\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f65f620df0788df61b41a614dd200c18\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\ee10769ff1cea536fc8422acb376428e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\ee10769ff1cea536fc8422acb376428e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\d0671c7fa82cc6ac8c57697403d8f9d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\d0671c7fa82cc6ac8c57697403d8f9d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\555e502785f5ef3a305188f16c61421b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\555e502785f5ef3a305188f16c61421b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\249e4dafe1403146100196e2d136ab97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\249e4dafe1403146100196e2d136ab97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\2dd037a41feb6467da8f82a14cee55e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\2dd037a41feb6467da8f82a14cee55e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\b2cfd8669c57f95b20775d2b579e0a96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\b2cfd8669c57f95b20775d2b579e0a96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f42afdabee58a313d40881b7fede5b1e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\f42afdabee58a313d40881b7fede5b1e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5b1f00046c96ed2ca57b873bb48990a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5b1f00046c96ed2ca57b873bb48990a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5827c43b53908fbb3ca0846e20acc9fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\5827c43b53908fbb3ca0846e20acc9fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\d4e608a58e7ec28dfa6aa9747f041a20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mistin\.gradle\caches\transforms-2\files-2.1\d4e608a58e7ec28dfa6aa9747f041a20\AndroidManifest.xml:20:5-44
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+		ADDED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
+		INJECTED from D:\ZenboRebuild\ZenboDialogSample\src\main\AndroidManifest.xml
