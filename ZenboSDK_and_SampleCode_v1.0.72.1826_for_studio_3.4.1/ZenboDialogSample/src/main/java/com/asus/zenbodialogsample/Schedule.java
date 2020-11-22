@@ -1,10 +1,9 @@
 package com.asus.zenbodialogsample;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
-
 
 import java.util.Calendar;
 import java.util.TimeZone;
@@ -34,8 +33,7 @@ public class Schedule extends AppCompatActivity {
         image_week.setVisibility(View.VISIBLE);
     }
 
-
-
+    //返回按鈕
     public void goBack(View v){
         finish();
     }

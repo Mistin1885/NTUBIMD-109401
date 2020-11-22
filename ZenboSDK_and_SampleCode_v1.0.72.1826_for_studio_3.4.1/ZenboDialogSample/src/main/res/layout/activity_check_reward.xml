@@ -15,7 +15,7 @@
         android:layout_marginStart="28dp"
         android:layout_marginTop="30dp"
         android:onClick="goBack"
-        android:text="@string/back" />
+        android:text="Back" />
 
     <TextView
         android:id="@+id/TextView_cnt_reward"

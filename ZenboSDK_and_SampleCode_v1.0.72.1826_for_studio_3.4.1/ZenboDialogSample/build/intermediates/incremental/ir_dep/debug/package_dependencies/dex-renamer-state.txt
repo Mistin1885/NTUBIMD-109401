@@ -1,4 +1,4 @@
-#Thu Nov 19 21:11:14 CST 2020
-base.0=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+#Sun Nov 22 19:31:32 CST 2020
+base.0=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\10
 path.0=classes.dex
 renamed.0=classes.dex

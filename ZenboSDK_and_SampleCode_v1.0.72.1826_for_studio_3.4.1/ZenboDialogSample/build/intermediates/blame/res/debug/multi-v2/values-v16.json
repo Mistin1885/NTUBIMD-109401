@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\f9b7fe4f360b59141a1b6fa098e9c767\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\08f1e0c857752ae259ad8f838e85c11e\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\7fc6f38e72c1ebd268d0841ef7698be8\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

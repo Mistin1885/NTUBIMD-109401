@@ -12,7 +12,7 @@
 
 
     <Button
-        android:id="@+id/btn_note"
+        android:id="@+id/btn_housework"
         android:layout_width="129dp"
         android:layout_height="51dp"
         android:layout_alignParentStart="true"
@@ -20,7 +20,7 @@
         android:layout_marginStart="187dp"
         android:layout_marginTop="155dp"
         android:background="@drawable/v1"
-        android:onClick="gotoNote" />
+        android:onClick="gotoHouseWork" />
 
     <Button
         android:id="@+id/btn_scheduel"
@@ -28,36 +28,24 @@
         android:layout_height="81dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="383dp"
-        android:layout_marginTop="132dp"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="269dp"
         android:background="@drawable/v2"
         android:onClick="gotoSchedule" />
 
     <Button
-        android:id="@+id/btn_Alarm"
-        android:layout_width="93dp"
-        android:layout_height="65dp"
+        android:id="@+id/btn_pomodoro"
+        android:layout_width="87dp"
+        android:layout_height="64dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="416dp"
-        android:layout_marginTop="288dp"
-        android:layout_marginEnd="206dp"
-        android:layout_marginBottom="42dp"
-        android:onClick="gotoAlarm"
-        android:text="鬧鐘" />
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="124dp"
-        android:layout_height="71dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="214dp"
-        android:layout_marginTop="270dp"
-        android:background="@drawable/v3"
-        android:text="Button" />
+        android:layout_marginStart="391dp"
+        android:layout_marginTop="165dp"
+        android:layout_marginEnd="237dp"
+        android:layout_marginBottom="166dp"
+        android:onClick="gotoPomodoro" />
 
     <Button
         android:id="@+id/btn_check_reward"
@@ -65,8 +53,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="86dp"
-        android:layout_marginEnd="67dp"
+        android:layout_marginTop="288dp"
+        android:layout_marginEnd="226dp"
         android:onClick="gotoCheck_reward"
         android:text="獎勵" />
 </RelativeLayout>

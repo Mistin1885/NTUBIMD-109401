@@ -1,32 +1,29 @@
 package com.asus.zenbodialogsample;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
 import java.io.BufferedReader;
 import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 
 import java.io.File;
 
 public class CheckReward extends AppCompatActivity {
 
-    TextView textView_cnt_reward;
+    TextView textView_cnt_reward; //顯示獎勵數量
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_check_reward);
 
-        refreshReward();
+        refreshReward();  //刷新數值
     }
 
-
+    //讀取完成次數(獎勵)
     FileInputStream in = null;
     StringBuffer data = new StringBuffer();
     public void readReward(){
@@ -50,6 +47,8 @@ public class CheckReward extends AppCompatActivity {
             }
         }
     }
+
+    //刷新獎勵次數
     public void refreshReward(){
         textView_cnt_reward = (TextView)findViewById(R.id.TextView_cnt_reward);
         readReward();
@@ -62,9 +61,12 @@ public class CheckReward extends AppCompatActivity {
         }
     }
 
+    //刷新按鈕
     public void btn_refresh(View v){
         refreshReward();
     }
+
+    //返回按鈕
     public void goBack(View v){
         finish();
     }

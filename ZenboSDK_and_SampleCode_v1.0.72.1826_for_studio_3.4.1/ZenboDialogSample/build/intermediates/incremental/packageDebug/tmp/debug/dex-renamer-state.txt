@@ -1,4 +1,4 @@
-#Thu Nov 19 21:11:16 CST 2020
+#Sun Nov 22 19:31:34 CST 2020
 path.1=classes.dex
 path.0=classes.dex
 renamed.10=classes11.dex
@@ -10,19 +10,19 @@ renamed.5=classes6.dex
 renamed.4=classes5.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
-base.9=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+base.9=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\20
 renamed.1=classes2.dex
-base.8=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+base.8=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\19
 renamed.0=classes.dex
-base.7=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\18
-base.6=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\17
-base.5=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\16
-base.4=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\15
-base.3=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.2=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.1=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-base.0=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.10=D\:\\ZenboSDK_and_SampleCode_v1.0.72.1826_for_studio_3.4.1\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\21
+base.7=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+base.6=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+base.5=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+base.4=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.3=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.2=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.1=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.0=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.10=D\:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\transforms\\dexMerger\\debug\\21
 path.10=classes.dex
 path.9=classes.dex
 path.8=classes.dex

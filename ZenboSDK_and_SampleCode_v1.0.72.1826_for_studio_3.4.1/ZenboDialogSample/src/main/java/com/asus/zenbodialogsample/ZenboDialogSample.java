@@ -20,11 +20,12 @@ import com.asus.robotframework.API.RobotUtil;
 import com.asus.robotframework.API.SpeakConfig;
 import com.robot.asus.robotactivity.RobotActivity;
 
+
 import org.json.JSONObject;
 
 public class ZenboDialogSample extends RobotActivity {
     public final static String TAG = "ZenboDialogSample";
-    public final static String DOMAIN = "9EF85697FF064D54B32FF06D21222BA2";
+    public final static String DOMAIN = "7C610C5D6ABD4BE59674F93A0B16BE11"; //9EF85697FF064D54B32FF06D21222BA2
 
     private static TextView mTextView;
 
@@ -34,6 +35,7 @@ public class ZenboDialogSample extends RobotActivity {
         setContentView(R.layout.activity_zenbo_dialog_sample);
 
         //mTextView = (TextView) findViewById(R.id.textview_info);
+        robotAPI.robot.speak("Nice to meet you");
     }
 
 
@@ -46,7 +48,7 @@ public class ZenboDialogSample extends RobotActivity {
 
         // listen user utterance
         //robotAPI.robot.speakAndListen("\"Which city do you like?", new SpeakConfig().timeout(20));
-        robotAPI.robot.speak("Nice to meet you");
+
 
         robotAPI.robot.setExpression(RobotFace.HAPPY);
 
@@ -74,15 +76,17 @@ public class ZenboDialogSample extends RobotActivity {
         startActivity(it);
     }
 
-    public void gotoNote(View v){
+
+    public void gotoHouseWork(View v){
         Intent it = new Intent();
-        it.setClass(ZenboDialogSample.this, Note.class);
+        it.setClass(ZenboDialogSample.this, HouseWork.class);
         startActivity(it);
     }
 
-    public void gotoAlarm(View v){
+
+    public void gotoPomodoro(View v){
         Intent it = new Intent();
-        it.setClass(ZenboDialogSample.this, AlarmActivity.class);
+        it.setClass(ZenboDialogSample.this, Pomodoro.class);
         startActivity(it);
     }
 
