@@ -31,7 +31,7 @@ public class Working extends AppCompatActivity {
         textView.setText(getIntent().getStringExtra("name"));
         int type = getIntent().getIntExtra("type", 0);
         if (type == 5) {
-            start.setText("开始干活");
+            start.setText("開始工作");
         }
         helper = new UserOpenHelper(this);
         //获取计时器组件
@@ -82,20 +82,20 @@ public class Working extends AppCompatActivity {
         final SQLiteDatabase db = helper.getWritableDatabase();
         switch (getIntent().getIntExtra("type", 0)) {
             case 1:
-                name = "开始扫地";
+                name = "開始掃地";
 
                 break;
 
             case 2:
-                name = "开始拖地";
+                name = "開始拖地";
 
                 break;
             case 3:
-                name = "开始洗碗";
+                name = "開始洗碗";
 
                 break;
             case 4:
-                name = "开始洗衣";
+                name = "開始洗衣";
 
                 break;
             case 5:
@@ -111,11 +111,11 @@ public class Working extends AppCompatActivity {
 //                    PendingIntent sender = PendingIntent.getBroadcast(AddPage.this, 1, intent, PendingIntent.FLAG_CANCEL_CURRENT);
 //                    //if(interval==0)
 //                    am.set(AlarmManager.RTC_WAKEUP, System.currentTimeMillis() + 3000, sender);
-            Toast.makeText(Working.this, "保存成功", Toast.LENGTH_SHORT).show();
+            Toast.makeText(Working.this, "儲存成功", Toast.LENGTH_SHORT).show();
             finish();
 
         } catch (Exception e) {
-            Toast.makeText(Working.this, "保存失败", Toast.LENGTH_SHORT).show();
+            Toast.makeText(Working.this, "儲存失敗", Toast.LENGTH_SHORT).show();
         }
     }
 

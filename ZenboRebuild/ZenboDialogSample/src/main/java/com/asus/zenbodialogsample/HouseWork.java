@@ -30,7 +30,7 @@ public class HouseWork extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(HouseWork.this, Working.class);
-                intent.putExtra("name","扫地");
+                intent.putExtra("name","掃地");
                 intent.putExtra("type",1);
                 startActivity(intent);
             }
@@ -48,7 +48,7 @@ public class HouseWork extends AppCompatActivity {
         tv_look.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(HouseWork.this, Main.class);
+                Intent intent = new Intent(HouseWork.this, WorkRecord.class);
                 startActivity(intent);
             }
         });

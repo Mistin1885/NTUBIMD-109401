@@ -16,10 +16,35 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/RobotDevTheme" >
-        <activity android:name="com.asus.zenbodialogsample.CheckReward" />
-        <activity android:name="com.asus.zenbodialogsample.Pomodoro" />
-        <activity android:name="com.asus.zenbodialogsample.Schedule" />
+        <activity
+            android:name="com.asus.zenbodialogsample.SleepTimeRecord"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.asus.zenbodialogsample.SleepTimer"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.asus.zenbodialogsample.Sleep"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.asus.zenbodialogsample.HouseWork"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.asus.zenbodialogsample.WorkRecord"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.asus.zenbodialogsample.Working"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.asus.zenbodialogsample.CheckReward"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.asus.zenbodialogsample.Pomodoro"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.asus.zenbodialogsample.Schedule"
+            android:screenOrientation="landscape" />
 
         <meta-data
             android:name="zenbo_ds_domainuuid"
@@ -40,6 +65,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.asus.zenbodialogsample.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

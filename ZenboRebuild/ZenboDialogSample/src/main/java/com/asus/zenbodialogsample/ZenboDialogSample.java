@@ -76,13 +76,17 @@ public class ZenboDialogSample extends RobotActivity {
         startActivity(it);
     }
 
-
     public void gotoHouseWork(View v){
         Intent it = new Intent();
         it.setClass(ZenboDialogSample.this, HouseWork.class);
         startActivity(it);
     }
 
+    public void gotoSleep(View v){
+        Intent it = new Intent();
+        it.setClass(ZenboDialogSample.this, Sleep.class);
+        startActivity(it);
+    }
 
     public void gotoPomodoro(View v){
         Intent it = new Intent();
@@ -151,10 +155,10 @@ public class ZenboDialogSample extends RobotActivity {
             text = "onResult: " + jsonObject.toString();
             Log.d(TAG, text);
 
-
             String sIntentionID = RobotUtil.queryListenResultJson(jsonObject, "IntentionId");
             Log.d(TAG, "Intention Id = " + sIntentionID);
 
+            /*
             if(sIntentionID.equals("helloWorld")) {
                 String sSluResultCity = RobotUtil.queryListenResultJson(jsonObject, "myCity1", null);
                 Log.d(TAG, "Result City = " + sSluResultCity);
@@ -163,6 +167,7 @@ public class ZenboDialogSample extends RobotActivity {
                     //mTextView.setText("You are now at " + sSluResultCity);
                 }
             }
+            */
 
         }
 

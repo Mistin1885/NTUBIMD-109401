@@ -10,11 +10,34 @@
         android:supportsRtl="true"
         android:theme="@style/RobotDevTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Working"></activity>
-        <activity android:name=".HouseWork" />
-        <activity android:name=".CheckReward" />
-        <activity android:name=".Pomodoro" />
-        <activity android:name=".Schedule" />
+
+        <activity
+            android:name=".SleepTimeRecord"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".SleepTimer"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Sleep"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".HouseWork"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".WorkRecord"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Working"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".CheckReward"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Pomodoro"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Schedule"
+            android:screenOrientation="landscape" />
 
         <meta-data
             android:name="zenbo_ds_domainuuid"

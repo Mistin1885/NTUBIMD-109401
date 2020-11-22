@@ -53,9 +53,10 @@ public class CheckReward extends AppCompatActivity {
         textView_cnt_reward = (TextView)findViewById(R.id.TextView_cnt_reward);
         readReward();
         String str_cnt_reward = data.toString();
+        String cnt_reward = String.valueOf(str_cnt_reward.length());
 
         if(str_cnt_reward != "") {
-            textView_cnt_reward.setText(str_cnt_reward);
+            textView_cnt_reward.setText(cnt_reward);
         }else{
             textView_cnt_reward.setText("0");
         }

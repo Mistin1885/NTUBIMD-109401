@@ -23,7 +23,7 @@ public class Pomodoro extends AppCompatActivity {
 
     private TextView showTime;
 
-    int cnt_reward = 0;
+    //int cnt_reward = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,10 +50,9 @@ public class Pomodoro extends AppCompatActivity {
             public void onFinish() {
                 showTime.setText("0");
                 btn_rest.setEnabled(true); //啟用休息按鈕
-                cnt_reward += 1; //完成次數+1
-
-                String s = Integer.toString(cnt_reward);
-                writeReward(s); //完成次數存入txt檔
+                //cnt_reward += 1; //完成次數+1
+                //String s = Integer.toString(cnt_reward);
+                writeReward("1"); //完成次數存入txt檔
             }
         };
 
