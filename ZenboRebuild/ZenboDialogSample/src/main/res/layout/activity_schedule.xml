@@ -15,24 +15,68 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="37dp"
         android:onClick="goBack"
-        android:text="Back" />
+        android:text="Back"
+        android:visibility="gone"/>
 
     <ImageView
         android:id="@+id/schedule_mon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/mon"
-        android:visibility="invisible" />
+        android:visibility="invisible"
+        app:srcCompat="@drawable/mon" />
+
+    <ImageView
+        android:id="@+id/schedule_tue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/tue" />
+
+    <ImageView
+        android:id="@+id/schedule_wen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/wen" />
+
+    <ImageView
+        android:id="@+id/schedule_thu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/thu" />
 
     <ImageView
         android:id="@+id/schedule_fri"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/fri" />
+
+    <TextView
+        android:id="@+id/schedule_sat"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="-1dp"
-        android:layout_marginTop="5dp"
-        android:visibility="visible"
-        app:srcCompat="@drawable/fri" />
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="100dp"
+        android:visibility="invisible"
+        android:text="星期六 休假" />
+
+    <TextView
+        android:id="@+id/schedule_sun"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="100dp"
+        android:visibility="invisible"
+        android:text="星期日 休假" />
 
 </RelativeLayout>

@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
+    android:background="@color/cardview_light_background"
     android:orientation="vertical">
 
     <TextView
@@ -14,7 +15,8 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:text="功能列表"
-        android:textColor="#000000"
+        android:textColor="@android:color/background_light"
+        android:background="@color/cardview_dark_background"
         android:textSize="22sp" />
 
 
@@ -22,8 +24,8 @@
         android:id="@+id/sleep_test"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/black"
         android:textSize="30pt" />
 
     <RelativeLayout
@@ -35,20 +37,20 @@
 
         <ImageView
             android:id="@+id/sleep_start"
-            android:layout_width="100dp"
+            android:layout_width="140dp"
             android:layout_height="100dp"
             android:layout_marginLeft="30dp"
-            android:scaleType="fitXY"
-            android:background="@drawable/up1" />
+            android:background="@drawable/gosleep"
+            android:scaleType="fitXY" />
 
         <ImageView
             android:id="@+id/sleep_pause"
-            android:layout_width="100dp"
-            android:layout_alignParentRight="true"
+            android:layout_width="140dp"
             android:layout_height="100dp"
+            android:layout_alignParentRight="true"
             android:layout_marginRight="30dp"
-            android:scaleType="fitXY"
-            android:background="@drawable/sleep1" />
+            android:background="@drawable/wakeup"
+            android:scaleType="fitXY" />
 
     </RelativeLayout>
 </RelativeLayout>

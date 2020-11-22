@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Nov 22 17:11:15 CST 2020
+#Sun Nov 22 19:24:52 CST 2020
 1.base=D\:\\ZenboRebuild\\RobotSensorSample\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
 2.path=classes_0.dex
 0.baseType=DIRECTORY

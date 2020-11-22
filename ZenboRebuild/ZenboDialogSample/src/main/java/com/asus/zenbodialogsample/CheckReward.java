@@ -67,8 +67,4 @@ public class CheckReward extends AppCompatActivity {
         refreshReward();
     }
 
-    //返回按鈕
-    public void goBack(View v){
-        finish();
-    }
 }

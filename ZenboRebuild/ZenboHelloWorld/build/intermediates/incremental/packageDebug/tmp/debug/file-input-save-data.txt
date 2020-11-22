@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Nov 22 17:10:15 CST 2020
+#Sun Nov 22 19:24:43 CST 2020
 1.base=D\:\\ZenboRebuild\\ZenboHelloWorld\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
 2.path=classes.dex
 0.baseType=DIRECTORY

@@ -196,10 +196,6 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_sleep1.jpeg.flat",
-        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\sleep1.jpeg"
-    },
-    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -276,10 +272,6 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_v3.png.flat",
-        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\v3.png"
-    },
-    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\08f1e0c857752ae259ad8f838e85c11e\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
@@ -312,10 +304,6 @@
         "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_up1.jpeg.flat",
-        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\up1.jpeg"
-    },
-    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\08f1e0c857752ae259ad8f838e85c11e\\res\\layout\\notification_template_part_time.xml"
     },
@@ -324,12 +312,12 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
-        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
@@ -424,6 +412,10 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_sleep.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\sleep.png"
+    },
+    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
@@ -484,12 +476,12 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\5ea87295441860e095b090589c657ef4\\res\\color\\mtrl_btn_text_color_selector.xml"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\anim\\btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_schedule.xml.flat",
@@ -636,6 +628,10 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_work.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\work.png"
+    },
+    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\color\\abc_secondary_text_material_dark.xml"
     },
@@ -762,6 +758,10 @@
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_wakeup.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\wakeup.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -892,12 +892,12 @@
         "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\tuodi.png"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
-        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_schedule.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\schedule.png"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_note.png.flat",
-        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\note.png"
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -972,6 +972,10 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_bg_reward.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\bg_reward.png"
+    },
+    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
@@ -986,6 +990,10 @@
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_gosleep.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\gosleep.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1224,6 +1232,10 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\08f1e0c857752ae259ad8f838e85c11e\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_housework.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\housework.png"
+    },
+    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
@@ -1298,6 +1310,10 @@
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_update.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\update.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1378,6 +1394,10 @@
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_wen.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\wen.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1472,6 +1492,10 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\08f1e0c857752ae259ad8f838e85c11e\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_pomodoro.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\pomodoro.png"
+    },
+    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\08f1e0c857752ae259ad8f838e85c11e\\res\\drawable\\notification_tile_bg.xml"
     },
@@ -1510,10 +1534,6 @@
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\color_mtrl_bottom_nav_colored_item_tint.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\5ea87295441860e095b090589c657ef4\\res\\color\\mtrl_bottom_nav_colored_item_tint.xml"
-    },
-    {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_v4.png.flat",
-        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\v4.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
@@ -1566,6 +1586,10 @@
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\5ea87295441860e095b090589c657ef4\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_rest.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\rest.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -1698,6 +1722,10 @@
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\08f1e0c857752ae259ad8f838e85c11e\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_thu.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\thu.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1844,6 +1872,10 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_bg3.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\bg3.png"
+    },
+    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear.xml.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\5ea87295441860e095b090589c657ef4\\res\\interpolator\\mtrl_linear.xml"
     },
@@ -1916,10 +1948,6 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_v2.png.flat",
-        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\v2.png"
-    },
-    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
@@ -1930,10 +1958,6 @@
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_edit_background.xml.flat",
         "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\edit_background.xml"
-    },
-    {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_v1.png.flat",
-        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\v1.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1980,6 +2004,10 @@
         "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\layout\\item_grid.xml"
     },
     {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_reward.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\reward.png"
+    },
+    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
@@ -2012,10 +2040,6 @@
         "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\c.png"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_alarm.png.flat",
-        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\alarm.png"
-    },
-    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\08f1e0c857752ae259ad8f838e85c11e\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
@@ -2044,10 +2068,6 @@
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_scheduel.png.flat",
-        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\scheduel.png"
-    },
-    {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
@@ -2058,6 +2078,10 @@
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Mistin\\.gradle\\caches\\transforms-2\\files-2.1\\bde514e11920ea1edb02dde98c9d5f05\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\drawable_tue.png.flat",
+        "source": "D:\\ZenboRebuild\\ZenboDialogSample\\src\\main\\res\\drawable\\tue.png"
     },
     {
         "merged": "D:\\ZenboRebuild\\ZenboDialogSample\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_btn_ripple_color.xml.flat",

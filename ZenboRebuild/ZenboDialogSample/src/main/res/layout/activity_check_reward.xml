@@ -4,39 +4,35 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bg_reward"
     tools:context=".CheckReward">
-
-    <Button
-        android:id="@+id/check_reward_back"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="28dp"
-        android:layout_marginTop="30dp"
-        android:onClick="goBack"
-        android:text="Back" />
 
     <TextView
         android:id="@+id/TextView_cnt_reward"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="331dp"
-        android:layout_marginTop="149dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
         android:text="0"
-        android:textSize="100sp" />
+        android:textSize="35pt" />
 
-    <Button
-        android:id="@+id/btn_refresh"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginEnd="324dp"
-        android:layout_marginBottom="42dp"
-        android:onClick="btn_refresh"
-        android:text="更新" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn_refresh"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="35dp"
+            android:background="@drawable/update"
+            android:onClick="btn_refresh" />
+
+    </LinearLayout>
+
+
 
 </RelativeLayout>

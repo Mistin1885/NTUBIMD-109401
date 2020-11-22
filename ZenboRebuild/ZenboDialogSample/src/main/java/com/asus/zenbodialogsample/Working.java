@@ -7,6 +7,7 @@ import android.os.SystemClock;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Chronometer;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -16,8 +17,8 @@ import java.util.Date;
 public class Working extends AppCompatActivity {
 
     Chronometer ch;
-    Button start;
-    Button pause;
+    ImageView start;
+    ImageView pause;
     UserOpenHelper helper;
     String time;
 
@@ -30,16 +31,18 @@ public class Working extends AppCompatActivity {
         TextView textView = findViewById(R.id.code);
         textView.setText(getIntent().getStringExtra("name"));
         int type = getIntent().getIntExtra("type", 0);
+        /*
         if (type == 5) {
             start.setText("開始工作");
         }
+        */
         helper = new UserOpenHelper(this);
         //获取计时器组件
         ch = (Chronometer) findViewById(R.id.test);
         //获取开始按钮
-        start = (Button) findViewById(R.id.start);
+        start = (ImageView) findViewById(R.id.start);
         //暂停计时按钮
-        pause = (Button) findViewById(R.id.pause);
+        pause = (ImageView) findViewById(R.id.pause);
         start.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
