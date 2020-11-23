@@ -5,55 +5,44 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.4.1"
-    timestamp="1606061700487"
+    timestamp="1606106379694"
     token="2461468415232837681"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="462" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="64" />
     <task
         name="verifier"
-        duration="0" />
+        duration="6" />
 
     <artifact
-        location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1606061421235"
+        timestamp="1606106334242"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
+            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\instant-run-apk\debug\ZenboDialogSample-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -62,21 +51,34 @@
             location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\instant-run-apk\debug\ZenboDialogSample-debug.apk"
-            type="SPLIT_MAIN" />
+            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1606061700487"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1606106379694"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            location="D:\ZenboRebuild\ZenboDialogSample\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
     </build>
 

@@ -26,9 +26,23 @@ public class Schedule extends AppCompatActivity {
         }
 
         ImageView image_week = (ImageView) findViewById(R.id.schedule_mon);
-        TextView text_week = (TextView) findViewById(R.id.schedule_sat);
+        //TextView text_week = (TextView) findViewById(R.id.schedule_sat);
 
+        if (weekDays[w]=="星期一"){
+            image_week = (ImageView) findViewById(R.id.schedule_mon);
+        }else if (weekDays[w]=="星期二"){
+            image_week = (ImageView) findViewById(R.id.schedule_tue);
+        }else if (weekDays[w]=="星期三"){
+            image_week = (ImageView) findViewById(R.id.schedule_wen);
+        }else if (weekDays[w]=="星期四"){
+            image_week = (ImageView) findViewById(R.id.schedule_thu);
+        }else if (weekDays[w]=="星期五"){
+            image_week = (ImageView) findViewById(R.id.schedule_fri);
+        }
 
+        image_week.setVisibility(View.VISIBLE);
+
+        /*
         switch (weekDays[w]){
             case "星期一":
                 image_week = (ImageView) findViewById(R.id.schedule_mon);
@@ -52,12 +66,7 @@ public class Schedule extends AppCompatActivity {
                 text_week = (TextView) findViewById(R.id.schedule_sun);
                 break;
         }
-
-        if(weekDays[w]=="星期六" || weekDays[w]=="星期日"){
-            text_week.setVisibility(View.VISIBLE);
-        }else{
-            image_week.setVisibility(View.VISIBLE);
-        }
+        */
     }
 
     //返回按鈕
