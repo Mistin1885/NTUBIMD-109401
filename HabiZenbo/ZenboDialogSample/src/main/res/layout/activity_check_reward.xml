@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_reward"
+    tools:context=".CheckReward">
+
+    <TextView
+        android:id="@+id/cnt_sleep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/cnt_work"
+        android:layout_marginBottom="60dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="50dp"
+        android:text="做家事次數"/>
+
+    <TextView
+        android:id="@+id/cnt_work"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textSize="50dp"
+        android:text="睡覺次數"/>
+
+    <TextView
+        android:id="@+id/cnt_pomodoro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cnt_work"
+        android:layout_marginTop="60dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="50dp"
+        android:text="蕃茄鐘次數"/>
+
+
+
+</RelativeLayout>
